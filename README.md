@@ -1,1 +1,1 @@
-# nb-genetics-fattah
+# Naive Bayes with Genetic Algoritm
